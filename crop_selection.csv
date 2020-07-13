@@ -1,0 +1,61 @@
+Typeofsoil,Rain,Temperature,Crops
+Alluvial soil,150-300 cm,22-32 C,oilseeds
+Alluvial soil,100-100 cm,20-24 C,Sugarcane
+Alluvial soil,150-300 cm,24-35 C, Jute
+Alluvial soil,50-75 cm,20-25 C,pulses
+Alluvial soil,115-300 cm,20-35 C,Rice
+Alluvial soil,25-175 cm,15-25 C,Wheat
+Alluvial soil,50-100 cm,21-30 C,Cotton
+Alluvial soil,50-100 cm,27-32 C,"Millets(Jowar, bajra)"
+Alluvial soil,50-100 cm,20-30 C,Ragi
+Redsoil,75-100 cm,10-15 C,"rice, gram"
+Redsoil,75-100 cm,10-15 C,Wheat
+Redsoil,55-75 cm,20-25 C,Pulses
+Redsoil,50-100 cm,21-30 C,Cotton
+Redsoil,50-75 cm,20-30 C,oilseeds
+Redsoil,10-45 cm,27-32 C,Jowar
+Redsoil,10-50 cm,25-30 C,Bajra
+Redsoil,50-100 cm,20-30 C,Ragi
+Black soil,50-75 cm,20-30 C,oilseeds
+Black soil,50-100 cm,21-30 C,Cotton
+Black soil,10-50 cm,25-30 C,Bajra
+Black soil,75-150 cm,21-27 C,"Groundnut, tobacco, chilli, maize"
+Black soil,25-175 cm,15-25 C,Wheat
+Black soil,100-100 cm,20-24 C,Sugarcane
+Black soil,10-45 cm,27-32 C,Jowar
+Black soil,50-100 cm,20-30 C,Ragi
+Mountain soil,150-300 cm,20-30 C,Spices and tropical fruits
+Mountain soil,150-250 cm,21-28 C,Coffee
+Mountain soil,150-300 cm,24-30 C, tea
+Mountain soil,75-100 cm,10-15 C,"wheat, maize, barley and temperate fruits"
+Laterite soil,150-300 cm,20-30 C,"coffee, coconut, areca nut"
+Laterite soil,150-300 cm,24-30 C, tea
+Desert soil,75-100 cm,10-15 C,"barley, maize"
+Desert soil,10-45 cm,27-32 C,Jowar
+Desert soil,10-50 cm,25-30 C,Bajra
+Desert soil,50-100 cm,20 -30 C,Ragi
+Desert soil,75-100 cm,20-25 C,pulses
+Desert soil,50-75 cm,21-30 C,cotton
+Sandy soil,100-225 cm,27-57 C,"melon, coconut , cashew,  casuarinas"
+Sandy soil,50-75 cm,20-30 C,oilseeds
+Sandy soil,75-100 cm,15-26 C,Wheat
+Sandy soil,10-45 cm,27-32 C,Jowar
+Sandy soil,10-50 cm,25-30 C,Bajra
+Sandy soil,50-100 cm,20-30 C,Ragi
+Sandy soil,50-100 cm,27-32 C,"maize,  barley"
+Clayey soil,100-300 cm,20-27 C,paddy
+Clayey soil,150-300 cm,22-32 C,Rice
+Clayey soil,75-100 cm,15-26 C,Wheat
+Loamy soil,75-100 cm,10-15 C,oilseeds and Vegetables
+Loamy soil,150-300 cm,24-35 C, Jute
+Loamy soil,50-75 cm,21-30 C,cotton
+Loamy soil,150-300 cm,22-32 C,Rice
+Loamy soil,75-100 cm,20-25 C,pulses
+Loamy soil,75-100 cm,15-26 C,Wheat
+Loamy soil,50-100 cm,20-30 C,Ragi
+Loamy soil,40-45 cm,20-25 C,Grams
+Loamy soil,75-150 cm,21-27 C,Sugarcane
+Loamy soil,150-300 cm,20-30 C,Tea
+Loamy soil,150-250 cm,21-28 C,Coffee
+Loamy soil,10-45 cm,27-32 C,Jowar
+Loamy soil,10-50 cm,25-30 C,Bajra
